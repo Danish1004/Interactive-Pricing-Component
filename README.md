@@ -10,11 +10,10 @@ Users should be able to:
 - Use Dark Mode as per choice
 
 ### Screenshots
-![Screenshot (60)](https://user-images.githubusercontent.com/87621051/209731223-6c71e314-0456-4791-b454-f2a78a26896b.png)
+![Screenshot (69)](https://user-images.githubusercontent.com/87621051/209735426-145db3cd-e5d7-4afd-b861-145b2afaa5af.png)
+![Screenshot (70)](https://user-images.githubusercontent.com/87621051/209735455-932a2dbc-de6e-4b3e-9ed6-60a638b0af87.png)
+![Screenshot (71)](https://user-images.githubusercontent.com/87621051/209735482-4631ee76-343d-4739-b6e0-c8c1dac155f3.png)
 
-![Screenshot (61)](https://user-images.githubusercontent.com/87621051/209731282-d99ec7e9-8cfd-4c38-b504-75c008af4c6f.png)
-
-![Screenshot (64)](https://user-images.githubusercontent.com/87621051/209731318-b1dd3277-665b-4cc3-adb0-038a1d3cb1fe.png)
 
 
 
