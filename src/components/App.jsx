@@ -17,14 +17,14 @@ function App() {
     <ThemeContext.Provider value={(theme, toggleTheme)}>
       <div className="appContainer" id={theme}>
         <div className="app">
+          <div className="switch1">
+            <label>{theme === "light" ? "Light Mode" : "Dark  Mode"}</label>
+            <ReactSwitch onChange={toggleTheme} checked={theme === "dark"} />
+          </div>
           <Heading />
           <Card />
         </div>
 
-        <div className="switch1">
-          <label>{theme === "light" ? "Light Mode" : "Dark  Mode"}</label>
-          <ReactSwitch onChange={toggleTheme} checked={theme === "dark"} />
-        </div>
         <Footer />
       </div>
     </ThemeContext.Provider>
